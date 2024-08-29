@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkseashine_cafe=self.webpackChunkseashine_cafe||[]).push([[742],{7093:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
